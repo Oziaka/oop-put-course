@@ -7,7 +7,7 @@ public class ex1 {
 
 class Phone {
    String mark;
-   //   in €
+   //   in z`
    int price;
    String model;
    int ramCapacity;
