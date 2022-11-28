@@ -28,7 +28,7 @@ public class ex1 {
 }
 
 class Euro implements Currency {
-   public static final String symbol = "€";
+   public final String symbol = "€";
    private final FakeCantor fakeCantor;
    private final BigDecimal balance;
    private final String abbreviation = "EUR";
